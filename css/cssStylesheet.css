@@ -41,7 +41,7 @@
 /* for the footer */
 footer {
 	       position:absolute;
-		   height:120px;
+		   height:130px;
 		   width:100%;
 		   padding-left:25px;
 		   background-color:#C0ADC6;
@@ -192,5 +192,14 @@ figcaption {
 				align-items:center;
 }
 
+/* for the correction of the right section of the footer */
+.textRight {
+	            display:block;
+				margin-right:45px;
+}
 
+/* for the italic sections in the sources */
+.sourcesItalic {
+	         font-style:italic;
+}
 
